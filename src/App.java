@@ -16,7 +16,7 @@ public class App {
         System.out.println("Haluatko laskea luvut yhteen vai vähentää. Kirjoita plus, miinus, jako, kerto tai potenssi.");
         input3 = in.nextLine();
 
-        if (input3.equalsIgnoreCase("plus")){
+        if (input3.equalsIgnoreCase("Plus")){
             vastaus = Double.parseDouble(input) + Double.parseDouble(input2);
         }
         
