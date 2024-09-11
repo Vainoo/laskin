@@ -26,7 +26,7 @@ public class App {
         else if (input3.equalsIgnoreCase("Jako")){
             vastaus = Double.parseDouble(input) / Double.parseDouble(input2);
         }
-        else if (input3.equalsIgnoreCase("kerto")){
+        else if (input3.equalsIgnoreCase("Kerto")){
 
          vastaus = Double.parseDouble(input) * Double.parseDouble(input2);
         
