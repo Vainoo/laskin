@@ -23,7 +23,7 @@ public class App {
         else if (input3.equalsIgnoreCase("Miinus")){
             vastaus = Double.parseDouble(input) - Double.parseDouble(input2);
         }
-        else if (input3.equalsIgnoreCase("jako")){
+        else if (input3.equalsIgnoreCase("Jako")){
             vastaus = Double.parseDouble(input) / Double.parseDouble(input2);
         }
         else if (input3.equalsIgnoreCase("kerto")){
